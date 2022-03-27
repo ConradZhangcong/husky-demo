@@ -1,0 +1,12 @@
+# ide
+.vscode
+.idea
+
+# dependency
+/node_modules
+
+# dist
+/dist
+
+# temp file
+/temp
